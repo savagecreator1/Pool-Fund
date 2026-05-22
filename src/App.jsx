@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 // ─── REPLACE THIS WITH YOUR REAL GUMROAD LINK ────────────────────────────────
-const GUMROAD_URL = "https://gumroad.com/l/poolfund";
+const GUMROAD_URL = "https://poolfund.gumroad.com/l/fndbt";
 const FOUNDING_TOTAL = 100;
 const FOUNDING_PRICE = 19;
 const PRO_PRICE = 4;
